@@ -71,3 +71,16 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Eruumaa&show_icons=true&theme=radical" alt="Aqil's GitHub Stats" /> </p>
 
 ⭐ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
