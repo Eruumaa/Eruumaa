@@ -88,7 +88,7 @@
 ⭐ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
 <div align="center">
-  <a href="https://open.spotify.com/user/kil">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kil&count=10&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31nk5gvq43szmbwvk7w6rytsvccm?si=1dbe5d1b4a6543ca">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nk5gvq43szmbwvk7w6rytsvccm?si=1dbe5d1b4a6543ca&count=10&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
