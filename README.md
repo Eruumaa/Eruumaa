@@ -5,6 +5,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=3F87FF&width=435&lines=Aspiring+AI+%26+Software+Engineer;Passionate+about+IoT+and+Science" alt="Typing SVG" />
 </p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Eruumaa/Eruumaa/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 ---
 
 ### 🌟 About Me
@@ -66,8 +75,20 @@
 
 - 💼 LinkedIn: [linkedin.com/in/aqilmubarak](https://www.linkedin.com/in/aqil-mubarak-7ab4a2320/)
 
-🧠 Fun fact: I'm learning Japanese as my 3rd language!
+###
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Eruumaa&show_icons=true&theme=radical" alt="Aqil's GitHub Stats" /> </p>
+🧠 Fun fact: I'm learning Japanese as my 3rd language!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eruumaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eruumaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ⭐ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+<div align="center">
+  <a href="https://open.spotify.com/user/kil">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kil&count=10&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
