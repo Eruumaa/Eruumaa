@@ -72,7 +72,7 @@
 
 - 📧 Email: maqilmb30@gmail.com
 
-- 📀 Instagram: instagram.com/maqilmubarak_/
+- 📀 Instagram: .[Instagram.com/maqilmbrk_](https://www.instagram.com/maqilmubarak_/)
 
 - 💼 LinkedIn: [linkedin.com/in/aqilmubarak](https://www.linkedin.com/in/aqil-mubarak-7ab4a2320/)
 
