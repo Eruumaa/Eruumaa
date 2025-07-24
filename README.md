@@ -49,10 +49,7 @@
 
 ### 🛠️ Tools & Technologies
 
-- **Languages:** JavaScript, Python, C++, HTML/CSS
-- **Frameworks:** React, TailwindCSS, Node.js
-- **Hardware:** ESP32, DHT11, MQ135, MQ2, BME280, RTC DS3231
-- **Tools:** Git, Figma, VS Code, Arduino IDE
+<p align="left"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/ESP32-3C3C3C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/> <img src="https://img.shields.io/badge/MQTT-FF8200?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/> <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot"/> <img src="https://img.shields.io/badge/Adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white" alt="Adafruit"/> <img src="https://img.shields.io/badge/OLED/LCD-1C1C1C?style=for-the-badge" alt="OLED & LCD"/> <img src="https://img.shields.io/badge/EEPROM-4C4C4C?style=for-the-badge" alt="EEPROM"/> <img src="https://img.shields.io/badge/RTClib-1E90FF?style=for-the-badge" alt="RTClib"/> <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/> </p>
 
 ---
 
