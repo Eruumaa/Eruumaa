@@ -59,7 +59,7 @@
 
 - 🎥 Photobooth Web App (coming soon)
 
-- 📡 ESP32 IoT Project: Live weather, gas monitoring with sensors + Telegram alerts (repository upolad comingg soon)
+- 📡 ESP32 IoT Project: Live weather, gas monitoring with sensors + Telegram alerts
 
 ---
 
